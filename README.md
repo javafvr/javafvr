@@ -3,5 +3,5 @@
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>🧑‍💻 Languages: JavaScript</code>
 <code>📦 Tech stack: vue.js</code>
-<code>💬 telegram: [@dmitriynd](https://telegram.me/dmitriynd)</code>
+<code>💬 telegram: [@dmitriynt](https://telegram.me/dmitriynt)</code>
 <code>📫 [yavafvr@yahoo.com](mailto:yavafvr@yahoo.com)</code>
